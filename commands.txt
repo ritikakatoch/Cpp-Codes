@@ -1,0 +1,60 @@
+Usage: git init [repository name]
+
+This command is used to start a new repository.
+
+GitInit Command - Git Commands - Edureka
+
+git clone
+Usage: git clone [url]  
+
+This command is used to obtain a repository from an existing URL.
+
+Git Clone Command - Git Commands - Edureka
+
+git add
+Usage: git add [file]  
+
+This command adds a file to the staging area.
+
+Git Add Command - Git Commands - Edureka
+
+Usage: git add *  
+
+This command adds one or more to the staging area.
+
+Git Add Command - Git Commands - Edureka
+
+git commit
+Usage: git commit -m “[ Type in the commit message]”  
+
+This command records or snapshots the file permanently in the version history.
+
+Git Commit Command - Git Commands - Edureka
+
+Usage: git commit -a  
+
+This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
+
+Git Commit Command - Git Commands - Edureka
+
+git diff
+Usage: git diff  
+
+This command shows the file differences which are not yet staged.
+
+Git Diff Command - Git Commands - Edureka
+
+ Usage: git diff –staged 
+
+This command shows the differences between the files in the staging area and the latest version present.
+
+Git Diff Command - Git Commands - Edureka
+
+Usage: git diff [first branch] [second branch]  
+
+This command shows the differences between the two branches mentioned.
+
+Git Diff Command - Git Commands - Edureka
+
+git reset
+Usage: git reset [file]  
